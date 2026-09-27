@@ -91,7 +91,7 @@ These two notebooks document the development of the adjoint-gradient approach, i
 - **`opt.ipynb`**: unit-testing and debugging of the differentiation mechanism (the `teeth_weight` function and its finite-difference gradient), before integration into the full pipeline.
 - **`opt_grad(2).ipynb`**: first attempt at full topology optimization (~27,000 free pixels), using the real tilted Gaussian source. The adjoint gradient computation triggers an internal Meep error, documented and discussed in the report as a methodological limitation. Kept as a record of this explored path.
 
-These notebooks are not meant to be rerun as-is (they contain test parameters, not the final reported values) — they are provided as documentation of the development process.
+These notebooks are not meant to be rerun as-is (they contain test parameters, not the final reported values), they are provided as documentation of the development process.
 
 ## Methodology (summary)
 
@@ -112,8 +112,8 @@ Full discussion: chapter 6 of the report.
 
 ## Author
 
-Nolan Le Tyrant — Télécom Physique Strasbourg
+Nolan Le Tyrant, Télécom Physique Strasbourg
 
 ## License
 
-This project is licensed under the MIT License — see [`LICENSE`](LICENSE).
+This project is licensed under the MIT License, see [`LICENSE`](LICENSE).
