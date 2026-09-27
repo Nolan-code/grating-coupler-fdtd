@@ -6,7 +6,7 @@ Project carried out as part of the engineering curriculum at Télécom Physique 
 
 ## Main result
 
-Optimal coupling efficiency obtained: **-13.4 dB (about 4.6%)**, at Λ ≈ 0.76 µm and duty cycle ≈ 0.68 — independently confirmed by two methods (manual sweep and gradient optimization), converging to very close points in parameter space.
+Optimal coupling efficiency obtained: **-13.4 dB (about 4.6%)**, at Λ ≈ 0.76 µm and duty cycle ≈ 0.68, confirmed by two methods (manual sweep and gradient optimization), converging to very close points in parameter space.
 
 Full report: [`Rapport/Photonic_project.pdf`](Rapport/Photonic_project.pdf) (written in French)
 
