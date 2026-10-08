@@ -2,8 +2,6 @@
 
 Simulation and optimization of a silicon fiber-to-chip grating coupler using the FDTD method (Meep), combining an analytical estimate, numerical validation, and optimization via parametric sweep and adjoint-gradient methods.
 
-Project carried out as part of the engineering curriculum at Télécom Physique Strasbourg.
-
 ## Main result
 
 Optimal coupling efficiency obtained: **-13.4 dB (about 4.6%)**, at Λ ≈ 0.76 µm and duty cycle ≈ 0.68, confirmed by two methods (manual sweep and gradient optimization), converging to very close points in parameter space.
